@@ -22,6 +22,7 @@ dependencies:
   # @TODO: Fix this error Because btl_ice_cream depends on google_maps_flutter >=0.5.21+15 which requires Flutter SDK version >=1.10.0 <2.0.0, version solving failed.
   # or use another google maps library.
   #google_maps_flutter: ^0.5.21+15
+  avatar_glow: ^1.1.0
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
